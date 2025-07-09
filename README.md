@@ -70,3 +70,10 @@ From these insights, you'll know:
 - Which products to prioritize
 - When most users shop
 - Which users to target for loyalty programs
+
+---
+
+## 👤 Author
+
+**Aswathi C D**  
+📧 Email: [aswathidileep2024@gmail.com](mailto:aswathidileep2024@gmail.com)
