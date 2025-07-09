@@ -34,7 +34,7 @@ Place the following CSV files in the `data/` folder:
 
 ## 📈 Visualizations
 
-Find generated graphs in the `visuals/` folder:
+Find generated graphs
 - Bar chart of best-selling items
 - Line chart for order time trends
 - Histogram of user purchase frequency
@@ -50,16 +50,6 @@ pip install -r requirements.txt
 # Step 2: Run the analysis script
 cd src
 python analysis.py
-```
-
----
-
-## 📸 Screenshots (Optional)
-
-Include visuals in the `screenshots/` folder and embed them in README like this:
-
-```markdown
-![Top Products](screenshots/top_products.png)
 ```
 
 ---
